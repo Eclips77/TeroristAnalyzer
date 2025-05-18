@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+App.config
+TeroristAnalyzer.csproj
+bin/
+obj/
+Properties/
